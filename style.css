@@ -1,0 +1,62 @@
+#topHeader{
+    border-bottom:1px solid #ebebeb;
+}
+#topHeader a{
+    color:#2d3436;
+    font-weight:500;
+    font-size:0.89rpm;
+}
+.container-fluid{
+    padding-left:0;
+    padding-right:0;
+}
+/* Start : Footer  */
+.full-footer {
+    background-color:#110d44;
+
+}
+.top-footer p{
+    color:white;
+}
+.top-footer a{
+    color:white;
+    font-size:600;
+}
+.top-footer h3{
+    color:white;
+}
+.bottom-footer{
+    background-color:#50b887;
+}
+.bottom-footer p{
+     color:white;
+}
+/*Start : Home page first hero section*/
+.top-hero-section{
+    background-color:#3498db;
+    color:white;
+}
+.top-hero-section a{
+    color:white;
+    font-weight:600;
+}
+
+/*End : Home page first hero section */
+.qualities-img{
+    width:200px;
+}
+
+
+
+
+/*....... Start of About us Page............*/
+.breadcrumbs-section{
+    background-color:#e9ecef;
+
+}
+
+
+
+
+
+/* End of About us page */
